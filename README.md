@@ -58,13 +58,21 @@ An interactive dashboard was created with KPI cards, charts, and slicers to prov
 6. Insight Generation
 The dashboard was analyzed to identify customer preferences, satisfaction levels, revenue patterns, and key areas requiring improvement.
 ## Project Insights
--Vehicle Type
+
+Vehicle Type
+
 Among the vehicle types, Bike generated the highest revenue at approximately ₹1,40,289, followed by Cab at ₹1,14,662 and Auto at ₹77,030.
--Ride Purpose
+
+Ride Purpose
+
 Personal rides were the most common ride purpose with 543 responses, followed by Shopping (215), College (191), and Emergency (150).
--Preferred Days
+
+Preferred Days
+
 Customers showed a stronger preference for weekend rides, with 437 responses. 393 customers preferred both weekdays and weekends equally, while 269 preferred weekdays.
--Payment Method
+
+Payment Method
+
 Cash recorded the highest transaction value in the dashboard, followed by UPI, Card, and Wallet.
 ## Final Conclusion 
 This project analyzes Rapido customer preferences, satisfaction, and improvement areas using Google Form survey data. The findings highlight Bike rides, personal trips, and weekend preferences, while pricing, waiting time, and driver behaviour are key areas for improvement. The project demonstrates my skills in data cleaning, analysis, visualization, and dashboard creation using Excel.
