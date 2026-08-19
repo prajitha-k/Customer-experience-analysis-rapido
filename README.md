@@ -56,27 +56,27 @@ The collected Google Form responses were exported and prepared for analysis in M
 12.What insights can be identified to improve the overall customer experience?
 
 ## Project Process
-1. Data Collection
+1.Data Collection
 
 A Google Form was created to collect responses from customers regarding their Rapido ride experience, preferences, satisfaction, and behaviour.
 
-2. Data Preparation
+2.Data Preparation
 
 The collected responses were exported from Google Forms and imported into Excel. The dataset was checked for missing values, inconsistencies, duplicate responses, and formatting issues.
 
-3. Data Cleaning
+3.Data Cleaning
 
 The data was cleaned and organized to make it suitable for analysis. Relevant categorical and numerical fields were standardized.
 
-4. Data Analysis
+4.Data Analysis
 
 Excel Pivot Tables, Pivot Charts, and calculations were used to analyze customer responses and identify patterns and trends.
 
-5. Dashboard Creation
+5.Dashboard Creation
 
 An interactive dashboard was created with KPI cards, charts, and slicers to provide a clear overview of customer experience.
 
-6. Insight Generation
+6.Insight Generation
 
 The dashboard was analyzed to identify customer preferences, satisfaction levels, revenue patterns, and key areas requiring improvement.
 ## Project Insights
